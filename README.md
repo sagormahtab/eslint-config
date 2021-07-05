@@ -53,7 +53,9 @@ eslint-node -y
 
 ---
 
-That's actually it! Whenever you create a new project just run the command from above and get everything related to eslint configured automatically.
+That's actually it! You'll start to see issues related to your code on your editor. Save the file and issues which are automatically fixable will be fixed automatically. Other issues will give you red or yellow hint.
+
+Whenever you create a new project just run the command from above and get everything related to eslint configured automatically.
 
 ## Customization
 
