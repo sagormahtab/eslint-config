@@ -53,7 +53,7 @@ eslint-node -y
 
 ---
 
-That's actually it! Whenever you create a new project just run the command from above and configure everything related to eslint.
+That's actually it! Whenever you create a new project just run the command from above and get everything related to eslint configured automatically.
 
 ## Customization
 
