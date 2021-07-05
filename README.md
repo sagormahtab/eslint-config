@@ -20,7 +20,7 @@ Sounds good? Without further ado let's get started.
 
 ### Get it on your local machine
 
-1. Use `git clone https://github.com/sagormahtab/eslint-config` or download it as a zip from the upper green <span style="color: #347d39;">Code</span> button.
+1. Use `git clone https://github.com/sagormahtab/eslint-config.git` or download it as a zip from the upper green <span style="color: #347d39;">Code</span> button.
 2. Create a directory named <span style="background: #505050; color: white">eslint-config</span> in your **C:** drive. Copy <span style="background: #505050; color: white">.eslintrc.json</span>, <span style="background: #505050; color: white">.prettierrc</span> and <span style="background: #505050; color: white">eslint-node.bat</span> from your downloaded directory to **C:\eslint-config**.
 
    > Note: Wanna keep files on different drive? Open _eslint-node.bat_ with a editor and change the directory according to your path on line 4 and 5
