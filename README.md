@@ -20,8 +20,8 @@ Sounds good? Without further ado let's get started.
 
 ### Get it on your local machine
 
-1. Use `git clone https://github.com/sagormahtab/eslint-config.git` or download it as a zip from the upper green <span style="color: #347d39;">Code</span> button.
-2. Create a directory named <span style="background: #505050; color: white">eslint-config</span> in your **C:** drive. Copy <span style="background: #505050; color: white">.eslintrc.json</span>, <span style="background: #505050; color: white">.prettierrc</span> and <span style="background: #505050; color: white">eslint-node.bat</span> from your downloaded directory to **C:\eslint-config**.
+1. Use `git clone https://github.com/sagormahtab/eslint-config.git` or download it as a zip from the upper green **Code** button.
+2. Create a directory named `eslint-config` in your **C:** drive. Copy `.eslintrc.json`, `.prettierrc` and `eslint-node.bat` from your downloaded directory to **C:\eslint-config**.
 
    > Note: Wanna keep files on different drive? Open _eslint-node.bat_ with a editor and change the directory according to your path on line 4 and 5
 
@@ -29,7 +29,7 @@ Sounds good? Without further ado let's get started.
 
 For accessing our batch file from anywhere of our computer, add it on system environment path.
 
-- Go to start menu. Type _env_, select > Edit the system environment variables> Environment variables...> Select **Path** from environment variables> Choose _edit_> Select _new_ > type <span style="background: #505050; color: white">C:\eslint-config</span> on there. OK, OK, OK!
+- Go to start menu. Type _env_, select > Edit the system environment variables> Environment variables...> Select **Path** from environment variables> Choose _edit_> Select _new_ > type `C:\eslint-config` on there. OK, OK, OK!
 
 > Note: if you have kept your **.bat** file somewhere else, type that directory path here.
 
